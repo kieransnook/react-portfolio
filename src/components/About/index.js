@@ -11,10 +11,7 @@ function About() {
       <div className="card mb-4">
         <div className="row no-gutters">
           <div className="col-md-4">
-            <img
-              
-              alt="Me"
-            />
+            <img alt="Me" />
           </div>
           <div className="col-md-8">
             <div className="card-body">
@@ -23,25 +20,24 @@ function About() {
               </h5>
               <p className="card-text1" id="sub1">
                 My name is Kieran Snook. I am from Atlanta and
-                currently living in Atlanta, Georgia. I am a 
-                 Full-stack developer.
+                currently living in Atlanta, Georgia. I am a
+                Full-stack developer.
               </p>
               <p className="card-text2" id="sub2">
-                I am currently enrolled in Georgia Techs
-                Full-stack development bootcamp. I am familiar and
-                experienced with Web application frameworks. Values I hold
-                high are reliability, authenticity, loyalty and helping others
-                achieve their success. Which is why I enjoy to see a project
-                through to the end. Not only do I believe in creating beautiful
-                software but also making it reliable and user friendly.
+                I am currently enrolled in Georgia Techs Full-stack
+                development bootcamp. I am familiar and experienced
+                with Web application frameworks. Values I hold high
+                are reliability, authenticity, loyalty and helping
+                others achieve their success. Which is why I enjoy to
+                see a project through to the end. Not only do I
+                believe in creating beautiful software but also making
+                it reliable and user friendly.
               </p>
             </div>
           </div>
         </div>
       </div>
-      <div>
-        {" "}
-      </div>
+      <div> </div>
     </>
   );
 }

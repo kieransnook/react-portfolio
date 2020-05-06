@@ -30,7 +30,6 @@ function Header() {
               <a
                 className="nav-link"
                 href="https://www.linkedin.com/in/kieran-snook-47b679106/"
-                
               >
                 Linkedin <span className="sr-only">(current)</span>
               </a>
@@ -39,13 +38,16 @@ function Header() {
               <a
                 className="nav-link"
                 href="https://github.com/kieransnook"
-                
               >
                 GitHub <span className="sr-only">(current)</span>
               </a>
             </li>
             <li className="nav-item active">
-              <a className="nav-link" href="https://docs.google.com/document/d/1l-wIgfP90tKkK8sQ3B9sU0rWcETaJU1oUSKV2mLdw6k/edit?usp=sharing" target="_blank">
+              <a
+                className="nav-link"
+                href="https://docs.google.com/document/d/1l-wIgfP90tKkK8sQ3B9sU0rWcETaJU1oUSKV2mLdw6k/edit?usp=sharing"
+                target="_blank"
+              >
                 Resume<span className="sr-only">(current)</span>
               </a>
             </li>
