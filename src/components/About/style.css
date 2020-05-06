@@ -1,0 +1,21 @@
+#about{
+    color: rgb(12, 12, 51);
+    font-size: 40px;
+}
+
+#sub1{
+font-style: serif;
+font-size: 22px;
+color:  rgb(12, 12, 51);
+}
+
+#sub2{
+    font-style: serif;
+    font-size: 20px;
+    color:  rgb(12, 12, 51);
+}
+
+#link{
+    color: red
+}
+
