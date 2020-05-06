@@ -24,13 +24,12 @@ function About() {
               <p className="card-text1" id="sub1">
                 My name is Kieran Snook. I am from Atlanta and
                 currently living in Atlanta, Georgia. I am a 
-                 Front-end developer.
+                 Full-stack developer.
               </p>
               <p className="card-text2" id="sub2">
                 I am currently enrolled in Georgia Techs
-                Full-stack development bootcamp. I am very familiar and
-                experienced with Web application frameworks and have worked with
-                a good number of successful development teams. Values I hold
+                Full-stack development bootcamp. I am familiar and
+                experienced with Web application frameworks. Values I hold
                 high are reliability, authenticity, loyalty and helping others
                 achieve their success. Which is why I enjoy to see a project
                 through to the end. Not only do I believe in creating beautiful
